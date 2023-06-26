@@ -1,0 +1,11 @@
+cache
+config
+crash-reports
+dumps
+libraries
+logs
+plugins
+versions
+world*
+
+*.yml
